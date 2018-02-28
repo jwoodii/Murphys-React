@@ -1,0 +1,24 @@
+.center-image{
+  background: url("http://murphyshawaii.com/media/2014/04/murphys-front.jpg");
+  height: 600px;
+}
+.logo{
+  position: absolute;
+  margin-top: 30% ;
+}
+.green-background{
+  background-color: #004030;
+  color: white;
+}
+.center-text{
+  position: absolute;
+  margin-top: 45%;
+}
+
+.white{
+  color: white;
+}
+
+.topmenu{
+  height: 70px;
+}
